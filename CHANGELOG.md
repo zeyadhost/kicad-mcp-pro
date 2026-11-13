@@ -10,6 +10,18 @@ and this package adheres to
 Comparison links will be added after the first public component tags are
 published.
 
+## [4.14.1](https://github.com/oaslananka/kicad-mcp-pro/compare/mcp-server-v4.14.0...mcp-server-v4.14.1) (2026-11-13)
+
+
+### Bug Fixes
+
+* **cloud:** recover expired owner forms without changing grants ([#1711](https://github.com/oaslananka/kicad-mcp-pro/issues/1711)) ([cc6144c](https://github.com/oaslananka/kicad-mcp-pro/commit/cc6144cffc8475e135c0f1bf2336ddbe7adf94d0))
+
+
+### Documentation
+
+* include Patreon in sponsor menu ([#1712](https://github.com/oaslananka/kicad-mcp-pro/issues/1712)) ([ec1f3b1](https://github.com/oaslananka/kicad-mcp-pro/commit/ec1f3b19aba9a8a764f607666ad5d46bec787b8e))
+
 ## [4.14.0](https://github.com/oaslananka/kicad-mcp-pro/compare/mcp-server-v4.13.0...mcp-server-v4.14.0) (2026-11-12)
 
 
